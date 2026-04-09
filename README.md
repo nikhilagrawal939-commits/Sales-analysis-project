@@ -2,6 +2,9 @@ Sales Analysis Project (SQL + Power BI)
 
 Project Overview
 
+Dataset: Superstore-style retail dataset(-5k orders)
+Scope: Sales, Profitability, Customer Behavior, Discount Impact
+
 This project analyzes a retail sales dataset to identify key drivers of revenue and profitability. The goal is to understand business performance across products, customers, regions, and discount strategies, and provide actionable insights.
 
 Tools Used
